@@ -1,10 +1,10 @@
 # Healthcare Patient Analysis Dashboard
 ## Table of contents
-  - [Project Overview](project-overview)
-  - [Project Objectives](project-objectives)
-  - [Dataset](dataset)
-  - [Technologies Used](technologies-used)
-  - [Key Insights](key-insights)
+  - [Project Overview](#project-overview)
+  - [Project Objectives](#project-objectives)
+  - [Dataset](#dataset)
+  - [Technologies Used](#technologies-used)
+  - [Key Insights](#key-insights)
 ### Project Overview
 This project presents a Power BI dashboard built to analyze patient care records across 10 major U.S. hospitals.
 The analysis is based on a dataset of 55,500 unique patient records, capturing key aspects such as admissions, medical conditions, medications, insurance providers, treatment costs, and patient outcomes. The goal of this project is to uncover insights that can:
